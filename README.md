@@ -32,11 +32,11 @@ No 1º semestre de 2022, o VSCode permite backup das suas configurações e sinc
 
 Usar uma fonte adequada para desenvolvimento melhorará seu conforto ao programar e ler código, escolha uma fonte adequada.
 
-Eu uso a [JetBrains Mono](https://www.jetbrains.com/lp/mono/) como fonte padrão.
+Eu uso a [Fira Code](https://github.com/tonsky/FiraCode) como fonte padrão.
 
 Instale-a no seu computador e ativa-a no VSCode alterando a opção `editor.fontFamily`, exemplo:
 ```json
-"editor.fontFamily": "\"JetBrains Mono\", 'Courier New', monospace",
+"editor.fontFamily": "\"Fira Code\", 'Courier New', monospace",
 ```
 Esta propriedade permite outras fontes como fallback se as primeiras não existirem.
 
